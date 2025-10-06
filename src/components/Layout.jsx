@@ -136,11 +136,7 @@ const Layout = ({ children }) => {
           backgroundColor: 'background.paper',
         }}
       >
-        <Container maxWidth="lg">
-          <Typography variant="body2" color="text.secondary" align="center">
-            © 2025 Alert Platform. Built with MERN Stack.
-          </Typography>
-        </Container>
+        
       </Box>
     </Box>
   );
