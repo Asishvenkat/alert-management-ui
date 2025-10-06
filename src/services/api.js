@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE = import.meta.env.REACT_APP_API_URL ?? 'https://alert-management-system-1.onrender.com/api';
+const API_BASE = 'https://alert-management-system-1.onrender.com/api';
 
 // Create axios instance
 const api = axios.create({
